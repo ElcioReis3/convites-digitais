@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "cONVITES DIGITAIS",
+  title: "CONVITES DIGITAIS",
   description:
     "Do Sonho ao Negócio: Conquiste sua Independência Vendendo Convites digitais!",
 };
