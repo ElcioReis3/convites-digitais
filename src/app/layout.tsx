@@ -14,9 +14,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Fornecedores de maquiagem!",
+  title: "cONVITES DIGITAIS",
   description:
-    "Do Sonho ao Negócio: Conquiste sua Independência Vendendo Maquiagem!",
+    "Do Sonho ao Negócio: Conquiste sua Independência Vendendo Convites digitais!",
 };
 
 export default function RootLayout({
